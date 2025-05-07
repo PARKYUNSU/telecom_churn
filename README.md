@@ -1,4 +1,4 @@
-# 프로젝트 문제 정의 및 목표
+# 통신사 고객 이탈 예측
 <p align="center">
   <img src="https://github.com/user-attachments/assets/5712810a-0a79-4a96-b994-3fdbe5019ef2" width=600>
 </p>
