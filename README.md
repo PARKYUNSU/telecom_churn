@@ -1,7 +1,7 @@
 # 프로젝트 문제 정의 및 목표
-
-<img src="https://github.com/user-attachments/assets/5712810a-0a79-4a96-b994-3fdbe5019ef2" width=500>
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5712810a-0a79-4a96-b994-3fdbe5019ef2" width=500>
+</p>
 
 ## 1. 프로젝트 일정
 | 기간          | 주요 활동                                                                                   |
