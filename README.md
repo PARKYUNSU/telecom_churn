@@ -7,6 +7,44 @@
 | 5/9 - 5/10    | 모델링 (머신러닝, 딥러닝 2-way)                                                             |
 | 5/11 - 5/14   | 비즈니스 제안서 작성                                                              |
 
+<table>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/PARKYUNSU">
+          <img src="https://avatars.githubusercontent.com/PARKYUNSU?size=100" width="100px;" alt="PARKYUNSU"/>
+          <br /><sub><b>PARKYUNSU</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/LoveBird-cute">
+          <img src="https://avatars.githubusercontent.com/LoveBird-cute?size=100" width="100px;" alt="LoveBird-cute"/>
+          <br /><sub><b>LoveBird-cute</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/jinijiniin">
+          <img src="https://avatars.githubusercontent.com/jinijiniin?size=100" width="100px;" alt="jinijiniin"/>
+          <br /><sub><b>jinijiniin</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/Dong-Kyu-Lee7">
+          <img src="https://avatars.githubusercontent.com/Dong-Kyu-Lee7?size=100" width="100px;" alt="Dong-Kyu-Lee7"/>
+          <br /><sub><b>Dong-Kyu-Lee7</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/bluol">
+          <img src="https://avatars.githubusercontent.com/bluol?size=100" width="100px;" alt="bluol"/>
+          <br /><sub><b>bluol</b></sub>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <details>
 <summary>📊 Data Card</summary>
