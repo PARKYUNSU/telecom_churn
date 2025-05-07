@@ -2,7 +2,6 @@
 팀 프로젝트-통신사 고객 이탈 예측 프로젝트
 # 프로젝트 문제 정의 및 목표
 
----
 
 <details>
 <summary>📊 Data Card</summary>
